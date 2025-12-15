@@ -1,5 +1,12 @@
 
 # Registration-Verification-System
+## Course Archive Notice
+
+This repository is an official course archive for the **INFO7390 Experiential Learning (XN) Project – Fall 2025** at Northeastern University.
+
+The project was completed by the Fall 2025 XN project group.  
+This repository is maintained here for course reference, documentation, and continuity.
+
 
 Lightweight Flask-based backend for handling registration + payment verification workflows.
 
